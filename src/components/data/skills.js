@@ -50,7 +50,16 @@ export const SkillsData = [
         name: "Bootstrap",
         icon: <i class="devicon-bootstrap-plain colored"></i>
       },
+      {
+        name: "AWS",
+        icon: <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+      },
+      {
+        name: "PHOTOSHOP",
+        icon: <i class="devicon-photoshop-plain colored"></i>
+      },
   
     ],
+
   },
 ];

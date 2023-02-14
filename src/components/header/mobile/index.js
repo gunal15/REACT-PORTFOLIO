@@ -17,7 +17,7 @@ function Mobile({ isOpen, setIsOpen}) {
         </a>
     </div>
     <div className="web-option">
-        <a href={require("../../header/GUNAL RESUME.pdf")} target="_blank" >
+        <a href={require("../../header/GUNAL N resume.pdf")} target="_blank" >
           <i class="fi fi-rr-money-check option-icon"></i>Resume
         </a>
     </div>
