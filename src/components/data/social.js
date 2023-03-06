@@ -2,7 +2,11 @@ export const SocialData=[
     {
         platform:"LinkedIN",
         icon: require("../../assets/icons/linkedin.png"),
+<<<<<<< HEAD
         link:"https://www.linkedin.com/in/gunal-n-b4b5b5227/",
+=======
+        link:"https://www.linkedin.com/in/gunal15/",
+>>>>>>> cf2b6e7f7a514399103f0cabf3c33ba1b3e6f66e
     },
     {
         platform:"Github",
