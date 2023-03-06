@@ -17,7 +17,6 @@ export const ProjectData=[
         github:"https://github.com/gunal15/webScrappingEcommerce-frontEnd",
      
     },
-<<<<<<< HEAD
     {
         id:3,
         title:"AWS polymer search clone",
@@ -27,7 +26,5 @@ export const ProjectData=[
         github:"https://github.com/gunal15/AWS-polymer-search-Frontend",
      
     },
-=======
->>>>>>> cf2b6e7f7a514399103f0cabf3c33ba1b3e6f66e
     
 ];
