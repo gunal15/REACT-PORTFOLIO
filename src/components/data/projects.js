@@ -17,5 +17,14 @@ export const ProjectData=[
         github:"https://github.com/gunal15/webScrappingEcommerce-frontEnd",
      
     },
+    {
+        id:3,
+        title:"AWS polymer search clone",
+        about: "This app is clone version of https://app.polymersearch.com/discover/aws",
+        tags:[ "React JS","Mongo DB","Node JS"],
+        demo:"	https://eclectic-haupia-0bab18.netlify.app/search",
+        github:"https://github.com/gunal15/AWS-polymer-search-Frontend",
+     
+    },
     
 ];
